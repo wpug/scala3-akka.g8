@@ -27,6 +27,6 @@ libraryDependencies ++= {
     "com.typesafe.akka" %% "akka-actor" % akkaV,
     "com.typesafe.akka" %% "akka-slf4j" % akkaV,
     //"ch.qos.logback" % "logback-classic" % "1.3.8", // for JDK ver. < 11
-    "ch.qos.logback" % "logback-classic" % "1.4.8" // for Java ver. >= 11
+    "ch.qos.logback" % "logback-classic" % "1.4.11" // for Java ver. >= 11
   )
 }
